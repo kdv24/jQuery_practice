@@ -1,4 +1,4 @@
 jQuery_Practice
 ===============
 
-practicing jQuery
+A place to work on some jQuery stuff
